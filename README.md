@@ -1,11 +1,11 @@
 ### Natural Language Processing (NLP)
 ### Author: 
-Zhaojie Chen (zc153) /
-TJ Tang (tt238) /
-Elena Wang (xnw3) /
-Chihui Shao (cs662) /
-Qin He (qh58) /
-Mingxuan Wang (mw466) /
+Zhaojie Chen (zc153) \
+TJ Tang (tt238) \
+Elena Wang (xnw3) \
+Chihui Shao (cs662) \
+Qin He (qh58) \
+Mingxuan Wang (mw466) \
 ### Introduction
 We are thinking of using Python to conduct text analysis. The targets for our product are college students who are struggling with literature or other scholarly articles. Some methods we may consider (inspired from https://www.machinelearningplus.com/nlp/text-summarization-approaches-nlp-example/): /
 -         TextRank: It is based on the concept that words which occur more frequently are significant. /
