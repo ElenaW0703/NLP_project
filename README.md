@@ -1,8 +1,8 @@
 ### Natural Language Processing (NLP)
 ### Author: 
+Elena Wang (xnw3) \
 Zhaojie Chen (zc153) \
 TJ Tang (tt238) \
-Elena Wang (xnw3) \
 Chihui Shao (cs662) \
 Qin He (qh58) \
 Mingxuan Wang (mw466) 
